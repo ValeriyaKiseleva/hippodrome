@@ -1,0 +1,106 @@
+2022-09-06 23:57:45,291 DEBUG Horse: The creating of the Horse, name is Буцефал, speed is 2.4
+2022-09-06 23:57:45,295 DEBUG Horse: The creating of the Horse, name is Туз Пик, speed is 2.5
+2022-09-06 23:57:45,295 DEBUG Horse: The creating of the Horse, name is Зефир, speed is 2.6
+2022-09-06 23:57:45,295 DEBUG Horse: The creating of the Horse, name is Пожар, speed is 2.7
+2022-09-06 23:57:45,296 DEBUG Horse: The creating of the Horse, name is Лобстер, speed is 2.8
+2022-09-06 23:57:45,296 DEBUG Horse: The creating of the Horse, name is Пегас, speed is 2.9
+2022-09-06 23:57:45,296 DEBUG Horse: The creating of the Horse, name is Вишня, speed is 3.0
+2022-09-06 23:57:45,297 DEBUG Hippodrome: Creating of the Hippodrome, horses 7
+2022-09-06 23:57:45,297 INFO Main: The beginning of the race. The number of participants is 7
+2022-09-06 23:58:05,754 INFO Main: The end of the race. The winner is Вишня
+2022-09-06 23:58:34,497 ERROR Hippodrome: Horses list is null
+2022-09-06 23:58:54,335 ERROR Hippodrome: Horses list is empty 
+2022-09-06 23:58:55,843 DEBUG Hippodrome: Creating of the Hippodrome, horses 50
+2022-09-06 23:58:55,939 ERROR Hippodrome: Horses list is null
+2022-09-06 23:58:55,943 ERROR Hippodrome: Horses list is null
+2022-09-06 23:58:55,946 ERROR Hippodrome: Horses list is empty 
+2022-09-06 23:58:55,949 DEBUG Horse: The creating of the Horse, name is HorseNumber1, speed is 5.0
+2022-09-06 23:58:55,949 DEBUG Horse: The creating of the Horse, name is HorseNumber2, speed is 5.0
+2022-09-06 23:58:55,949 DEBUG Horse: The creating of the Horse, name is HorseNumber3, speed is 5.0
+2022-09-06 23:58:55,949 DEBUG Hippodrome: Creating of the Hippodrome, horses 3
+2022-09-06 23:58:55,954 DEBUG Horse: The creating of the Horse, name is HorseNumber1, speed is 1.0
+2022-09-06 23:58:55,954 DEBUG Horse: The creating of the Horse, name is HorseNumber2, speed is 2.0
+2022-09-06 23:58:55,954 DEBUG Horse: The creating of the Horse, name is HorseNumber3, speed is 3.0
+2022-09-06 23:58:55,954 DEBUG Horse: The creating of the Horse, name is HorseNumber4, speed is 4.0
+2022-09-06 23:58:55,954 DEBUG Horse: The creating of the Horse, name is HorseNumber5, speed is 5.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber6, speed is 6.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber7, speed is 7.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber8, speed is 8.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber9, speed is 9.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber10, speed is 10.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber11, speed is 11.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber12, speed is 12.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber13, speed is 13.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber14, speed is 14.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber15, speed is 15.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber16, speed is 16.0
+2022-09-06 23:58:55,955 DEBUG Horse: The creating of the Horse, name is HorseNumber17, speed is 17.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber18, speed is 18.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber19, speed is 19.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber20, speed is 20.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber21, speed is 21.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber22, speed is 22.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber23, speed is 23.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber24, speed is 24.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber25, speed is 25.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber26, speed is 26.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber27, speed is 27.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber28, speed is 28.0
+2022-09-06 23:58:55,956 DEBUG Horse: The creating of the Horse, name is HorseNumber29, speed is 29.0
+2022-09-06 23:58:55,957 DEBUG Horse: The creating of the Horse, name is HorseNumber30, speed is 30.0
+2022-09-06 23:58:55,957 DEBUG Hippodrome: Creating of the Hippodrome, horses 30
+2022-09-06 23:58:55,978 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,026 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,037 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,039 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,040 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,043 ERROR Horse: Speed is negative
+2022-09-06 23:58:56,044 ERROR Horse: Speed is negative
+2022-09-06 23:58:56,045 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,048 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,055 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,059 ERROR Horse: Name is null
+2022-09-06 23:58:56,059 ERROR Horse: Name is null
+2022-09-06 23:58:56,092 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,210 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,217 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,224 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,230 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,238 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,240 ERROR Horse: Name is null
+2022-09-06 23:58:56,241 ERROR Horse: Name is null
+2022-09-06 23:58:56,243 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,245 ERROR Horse: Distance is negative
+2022-09-06 23:58:56,246 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,250 ERROR Horse: Speed is negative
+2022-09-06 23:58:56,251 ERROR Horse: Speed is negative
+2022-09-06 23:58:56,252 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,256 ERROR Horse: Distance is negative
+2022-09-06 23:58:56,258 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,261 ERROR Horse: Name is blank
+2022-09-06 23:58:56,262 ERROR Horse: Name is blank
+2022-09-06 23:58:56,264 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,266 ERROR Horse: Name is blank
+2022-09-06 23:58:56,266 ERROR Horse: Name is blank
+2022-09-06 23:58:56,268 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,273 ERROR Horse: Name is blank
+2022-09-06 23:58:56,274 ERROR Horse: Name is blank
+2022-09-06 23:58:56,276 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,280 ERROR Horse: Name is blank
+2022-09-06 23:58:56,280 ERROR Horse: Name is blank
+2022-09-06 23:58:56,284 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,287 ERROR Horse: Name is blank
+2022-09-06 23:58:56,288 ERROR Horse: Name is blank
+2022-09-06 23:58:56,289 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,291 ERROR Horse: Name is blank
+2022-09-06 23:58:56,292 ERROR Horse: Name is blank
+2022-09-06 23:58:56,293 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,296 ERROR Horse: Name is blank
+2022-09-06 23:58:56,296 ERROR Horse: Name is blank
+2022-09-06 23:58:56,297 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,300 ERROR Horse: Name is blank
+2022-09-06 23:58:56,300 ERROR Horse: Name is blank
+2022-09-06 23:58:56,301 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,303 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,304 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
+2022-09-06 23:58:56,306 DEBUG Horse: The creating of the Horse, name is SomeName, speed is 5.0
